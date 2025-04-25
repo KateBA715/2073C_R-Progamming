@@ -1,7 +1,5 @@
-# Assignment1
 # K. Araya
-# 8/30/2024
-# Create an R Script 
+# Creating an R Script 
 
 #1.Original Vector: (Create, store, and display a sequence of values from 5 to -11 
 # that progresses in steps of 0.3.) 
